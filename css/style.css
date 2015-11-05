@@ -1,0 +1,14 @@
+.box {
+	background-color: red;
+	height: 300px;
+	width: 300px;
+	margin: 10px;
+}
+
+.flow {
+	float: left;
+}
+
+.cleanup {
+	clear: left;
+}
